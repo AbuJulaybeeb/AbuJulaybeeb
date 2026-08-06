@@ -1,20 +1,16 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,100:FF416C&height=200&section=header&text=Jibril%20Raji%20Qasim%20&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Designer%20%26%20Full-Stack%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,100:FF416C&height=200&section=header&text=Jibril%20Raji%20Qasim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Designer%20and%20Full-Stack%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
 <!-- TYPING SVG -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF4B2B&center=true&vCenter=true&width=600&lines=Product+Designer+%E2%9C%A8;Senior+Full-Stack+Engineer+%F0%9F%92%BB;Full-stack%20developer%20with%20a%20passion%20for%20" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF416C&center=true&vCenter=true&width=600&lines=Product+Designer+%E2%9C%A8;Senior+Full-Stack+Engineer+%F0%9F%92%BB;Full-stack%20developer%20with%20a%20passion%20for%20" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF4B2B&center=true&vCenter=true&width=600&lines=Product+Designer+%E2%9C%A8;Senior+Full-Stack+Engineer+%F0%9F%92%BB;Full-stack%20developer%20with%20a%20passion%20for%20" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF4B2B&center=true&vCenter=true&width=600&lines=Product+Designer+%E2%9C%A8;Senior+Full-Stack+Engineer+%F0%9F%92%BB;Crafting+elegant+digital+experiences" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF416C&center=true&vCenter=true&width=600&lines=Product+Designer+%E2%9C%A8;Senior+Full-Stack+Engineer+%F0%9F%92%BB;Crafting+elegant+digital+experiences" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF4B2B&center=true&vCenter=true&width=600&lines=Product+Designer+%E2%9C%A8;Senior+Full-Stack+Engineer+%F0%9F%92%BB;Crafting+elegant+digital+experiences" />
 </picture>
 
 <br/>
-
-
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=AbuJulaybeeb&label=PROFILE+VIEWS&color=FF4B2B&style=flat-square" alt="Profile Views" />
 
@@ -26,17 +22,17 @@
 
 ```typescript
 const designer = {
-  name:       "Jibril Raji Qasim ",
+  name:       "Jibril Raji Qasim [AJDEV]",
   role:       "Product Designer & Full-Stack Developer",
   location:   "Earth",
-  mission:    "Building tools that merge beautiful UI with robust systems",
-  editor:     ["VS Code", "Figma", "NeoVim"],
+  mission:    "Building Scalable realtime robust systems",
+  editor:     ["VS Code", "Figma", "Antigravity"],
   currentFocus: [
     "Designing seamless user experiences",
     "Architecting scalable full-stack applications",
     "Shipping products that matter",
   ],
-  funFact:    "I obsess over pixel perfection and clean code 🎨💻",
+  funFact:    "Clean code and secured system lover  🎨💻",
 };
 ```
 
@@ -64,8 +60,8 @@ const designer = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats-one.vercel.app/api?username=AbuJulaybeeb&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&t=1786038449613" alt="github stats" width="48%" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=AbuJulaybeeb&layout=compact&theme=dracula&hide_border=true&langs_count=6&t=1786038449613" alt="top languages" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=AbuJulaybeeb&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&t=1786038739637" alt="github stats" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=AbuJulaybeeb&layout=compact&theme=dracula&hide_border=true&langs_count=6&t=1786038739637" alt="top languages" width="48%" />
 </div>
 
 <div align="center">
@@ -109,6 +105,6 @@ const designer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=120&section=footer&animation=fadeIn" width="100%" />
 
-<sub>Designed meticulously by Jibril Raji Qasim  · Generated with <a href="https://github.com/Xclusive09/gh-profile">gh-profile</a></sub>
+<sub>Designed meticulously by Jibril Raji Qasim · Generated with <a href="https://github.com/Xclusive09/gh-profile">gh-profile</a></sub>
 
 </div>
