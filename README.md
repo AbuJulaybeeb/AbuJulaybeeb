@@ -5,9 +5,9 @@
 
 <!-- TYPING SVG -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF4B2B&center=true&vCenter=true&width=600&lines=Product+Designer+%E2%9C%A8;Senior+Full-Stack+Engineer+%F0%9F%92%BB;Crafting+elegant+digital+experiences" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF416C&center=true&vCenter=true&width=600&lines=Product+Designer+%E2%9C%A8;Senior+Full-Stack+Engineer+%F0%9F%92%BB;Crafting+elegant+digital+experiences" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF4B2B&center=true&vCenter=true&width=600&lines=Product+Designer+%E2%9C%A8;Senior+Full-Stack+Engineer+%F0%9F%92%BB;Crafting+elegant+digital+experiences" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF4B2B&center=true&vCenter=true&width=600&lines=Founder+%40+StormSale+%F0%9F%9A%80;Product+Designer+%E2%9C%A8;Senior+Full-Stack+Engineer+%F0%9F%92%BB;Crafting+elegant+digital+experiences" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF416C&center=true&vCenter=true&width=600&lines=Founder+%40+StormSale+%F0%9F%9A%80;Product+Designer+%E2%9C%A8;Senior+Full-Stack+Engineer+%F0%9F%92%BB;Crafting+elegant+digital+experiences" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF4B2B&center=true&vCenter=true&width=600&lines=Founder+%40+StormSale+%F0%9F%9A%80;Product+Designer+%E2%9C%A8;Senior+Full-Stack+Engineer+%F0%9F%92%BB;Crafting+elegant+digital+experiences" />
 </picture>
 
 <br/>
@@ -22,17 +22,17 @@
 
 ```typescript
 const designer = {
-  name:       "Jibril Raji Qasim [AJDEV]",
-  role:       "Product Designer & Full-Stack Developer",
-  location:   "Earth",
-  mission:    "Building Scalable realtime robust systems",
+  name:       "Jibril Raji Qasim",
+  role:       "Founder @ StormSale | Product Designer & Full-Stack Developer",
+  location:   "Nigeria",
+  mission:    "Building Scalable robust systems",
   editor:     ["VS Code", "Figma", "Antigravity"],
   currentFocus: [
     "Designing seamless user experiences",
     "Architecting scalable full-stack applications",
     "Shipping products that matter",
   ],
-  funFact:    "Clean code and secured system lover  🎨💻",
+  funFact:    "Clean code and secured system lover 🎨💻",
 };
 ```
 
@@ -60,8 +60,8 @@ const designer = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats-one.vercel.app/api?username=AbuJulaybeeb&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&t=1786038739637" alt="github stats" width="48%" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=AbuJulaybeeb&layout=compact&theme=dracula&hide_border=true&langs_count=6&t=1786038739637" alt="top languages" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=AbuJulaybeeb&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&t=1786039466503" alt="github stats" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=AbuJulaybeeb&layout=compact&theme=dracula&hide_border=true&langs_count=6&t=1786039466503" alt="top languages" width="48%" />
 </div>
 
 <div align="center">
@@ -81,6 +81,20 @@ const designer = {
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AbuJulaybeeb&theme=darkhub&no-frame=true&column=4&margin-w=12&margin-h=12&no-bg=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=AbuJulaybeeb&theme=flat&no-frame=true&column=4&margin-w=12&margin-h=12" />
   <img src="https://github-profile-trophy.vercel.app/?username=AbuJulaybeeb&theme=darkhub&no-frame=true&column=4&margin-w=12&margin-h=12&no-bg=true" alt="GitHub Trophies" />
+</picture>
+
+</div>
+
+---
+
+## `> contributions --snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbuJulaybeeb/AbuJulaybeeb/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbuJulaybeeb/AbuJulaybeeb/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AbuJulaybeeb/AbuJulaybeeb/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
