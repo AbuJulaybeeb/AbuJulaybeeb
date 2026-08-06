@@ -10,21 +10,21 @@
 ### 📊 Impact & Metrics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbuJulaybeeb&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&t=1786037428848" alt="github stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuJulaybeeb&layout=compact&theme=radical&hide_border=true&langs_count=6&t=1786037428848" alt="top languages" height="150" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=AbuJulaybeeb&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&t=1786037849122" alt="github stats" height="150" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=AbuJulaybeeb&layout=compact&theme=radical&hide_border=true&langs_count=6&t=1786037849122" alt="top languages" height="150" />
 </div>
 
 ### 🛠️ Craft & Tools
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,express,bash,docker,aws,tailwindcss,nodejs,hostinger,postgresql,firebase,js,py,rust,vite,solidity,git,linux,php,laravel,css,html,code&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=css,html,ts,js,code&theme=dark" alt="tech stack" />
 
 ### 🚀 Selected Works
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbuJulaybeeb&repo=MSSNFUD-BLOG&theme=radical&hide_border=true&t=1786037428848" alt="MSSNFUD-BLOG" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbuJulaybeeb&repo=BIT-GUESS&theme=radical&hide_border=true&t=1786037428848" alt="BIT-GUESS" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbuJulaybeeb&repo=my-portfolio&theme=radical&hide_border=true&t=1786037428848" alt="my-portfolio" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbuJulaybeeb&repo=Storm-Sale&theme=radical&hide_border=true&t=1786037428848" alt="Storm-Sale" />
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=AbuJulaybeeb&repo=MSSNFUD-BLOG&theme=radical&hide_border=true&t=1786037849122" alt="MSSNFUD-BLOG" />
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=AbuJulaybeeb&repo=BIT-GUESS&theme=radical&hide_border=true&t=1786037849122" alt="BIT-GUESS" />
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=AbuJulaybeeb&repo=my-portfolio&theme=radical&hide_border=true&t=1786037849122" alt="my-portfolio" />
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=AbuJulaybeeb&repo=Abu-Julaybeeb&theme=radical&hide_border=true&t=1786037849122" alt="Abu-Julaybeeb" />
 </div>
 
 ---
